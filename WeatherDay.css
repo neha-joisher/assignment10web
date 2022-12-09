@@ -1,0 +1,55 @@
+/* .renderedWeatherDayWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.renderedWeatherDayWrapper:hover {
+    background-color: green;
+    color: blue;
+}
+
+#weatherDayImage {
+    align-items: center;
+} */
+
+
+
+
+.welcomeWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.wrapper {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btnWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.weatherContentWrapper {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* border: 1px solid black; */
+    padding: 10px;
+    border-bottom: 1px solid black;
+}
+
+.isLoadingWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

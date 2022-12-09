@@ -1,0 +1,28 @@
+
+
+.weatherListWrapper {
+
+
+}
+
+.weatherListHeadingWrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.temperatureImage {
+    display: flex;
+}
+
+#tempId {
+    width: 15vw;
+    height: 20vh;
+}
+
+#weatherDayImage {
+    width: 5vw;
+    height: 10vh;
+}
+
